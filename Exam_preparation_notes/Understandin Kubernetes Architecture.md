@@ -1,6 +1,6 @@
 ## Understanding Kubernetes Architecture
 ======================================================================
-* This topic has a total weight of 19% in exam
+# This topic has a total weight of 19% in exam
 
 #### Note: Below is an interactive diagream which help understand K8 in details
 https://interactive.linuxacademy.com/diagrams/ThePodofMinerva.html
